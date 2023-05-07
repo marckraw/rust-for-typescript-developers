@@ -1,1 +1,1 @@
-# Notest and code for FrontendMaster course
+# Notes and code for FrontendMaster course

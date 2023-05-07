@@ -3,3 +3,7 @@
 .vs_code
 node_modules
 .env
+
+# Added by cargo
+
+/target
